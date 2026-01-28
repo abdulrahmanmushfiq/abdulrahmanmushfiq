@@ -1,50 +1,24 @@
-# Hi there, I'm Abdulrahman Mushfiq 👋 
+# 💫 About Me:
+<br>Hi there, I'm Abdulrahman Mushfiq 👋 <br> 🚀 Computer Science Student at UET, Lahore<br>I am a passionate developer currently honing my skills in Software Engineering and Data Structures. I love building scalable web applications and exploring new technologies.
 
-### 🚀 Computer Science Student at UET, Lahore
-I am a passionate developer currently honing my skills in Software Engineering and Data Structures. I love building scalable web applications and exploring new technologies.
 
----
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61579970291552) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abdulrahman-mushfiq) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulrahmanmushfiq650@gmail.com) 
 
-### 🛠️ Tech Stack & Tools
-* **Languages:** C++, Java, JavaScript, Python
-* **Web Development:** HTML5, CSS3, React.js, Node.js
-* **Databases:** MySQL, MongoDB
-* **Tools:** Git, GitHub, VS Code
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abdulrahmanmushfiq&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=abdulrahmanmushfiq&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanmushfiq&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abdulrahmanmushfiq&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 📈 GitHub Stats
-![Abdulrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulrahmanmushfiq&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanmushfiq&layout=compact&theme=radical)
-
----
-
-### ⭐ Featured Project
-**[BOOK-POINT-E-COMMERCE-SYSTEM-](https://github.com/abdulrahmanmushfiq/BOOK-POINT-E-COMMERCE-SYSTEM-)**
-*A full-featured E-commerce platform designed for book enthusiasts. Focused on seamless user experience and robust backend management.*
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=abdulrahmanmushfiq&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=abdulrahmanmushfiq&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📫 Reach Me
-* **LinkedIn:** [linkedin.com/in/abdulrahman-mushfiq](https://www.linkedin.com/in/abdulrahman-mushfiq)
-* **Portfolio:** *[Add your portfolio link here or remove this line]*
-
----
-
-### ⚡ Fun Fact
-I'm currently balancing the rigorous labs at UET while building the next big thing in E-commerce!
-
-<!--
-**abdulrahmanmushfiq/abdulrahmanmushfiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
